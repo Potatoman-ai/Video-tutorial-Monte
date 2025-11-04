@@ -12,5 +12,7 @@
     <section>
       <h2>Step 1: Find a video</h2>
       <p>Find desired video</p>
+      <
   </body>
 </html>
+5 steps
