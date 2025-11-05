@@ -30,6 +30,8 @@
           <img width="1591" height="590" alt="Screenshot 2025-11-05 12 27 50 PM" src="https://github.com/user-attachments/assets/2778a8c3-955b-41eb-a863-1c3001b8b242" />
         </section>
     <section>
+      <h2>Step 5: embed video</h2>
+      <p>After you copy the code to embed you then paste it into your website leaving you a video</p>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/1yMozrDEqbg?si=QlToXPJnNnVqkAkh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </section>
   </body>
