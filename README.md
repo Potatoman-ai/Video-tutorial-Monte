@@ -12,7 +12,8 @@
     <section>
       <h2>Step 1: Find a video</h2>
       <p>Find desired video</p>
-      <
+      <img scr=""
+        alt="screenshot"
+        width="936px" height="23px"/>
   </body>
 </html>
-5 steps
