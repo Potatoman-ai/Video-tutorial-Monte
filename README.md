@@ -21,6 +21,7 @@
     </section>
         <section>
           <h2>step 3:click on share and click embed</h2>
+          <p></p>
         </section>
   </body>
 </html>
